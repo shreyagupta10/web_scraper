@@ -1,0 +1,2 @@
+1. pip install scrapy selenium
+2. Download the web drivers according to the system used
